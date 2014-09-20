@@ -4,8 +4,8 @@
 
 cabal.mkDerivation (self: {
   pname = "rest-types";
-  version = "1.10.1";
-  sha256 = "0i4y1s35ybly1nayqj9c2zqwikpxnzjamq24qbhg0lpqr0dpc1rg";
+  version = "1.11";
+  sha256 = "16ki6sqi88s8ykwdhsk0xparvv90zzj4jidk0mhsd2wi3l4w1l6i";
   buildDepends = [
     aeson genericAeson hxt jsonSchema mtl regular regularXmlpickler
     restStringmap text uuid
